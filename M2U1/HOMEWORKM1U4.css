@@ -1,0 +1,63 @@
+
+h1{
+   color: #7E6253;
+   text-align: center;
+
+}
+
+
+#profilepicture{
+     display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+h3{
+    color: black;
+    background-color:#E3C6B6;
+}
+
+body{
+    font-family: monospace;
+    font-size: 12px;
+}
+
+#videointerview {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.entrevista {
+      text-align: center; color:#7E6253;
+}
+
+
+.cuadrado {
+    border:solid black;
+    width: 300px;
+    height: 150px;
+    /* background-color:#7E6253; */
+    margin: 100 px;
+    background: #211709;
+    background: linear-gradient(9deg,#211709 0%, #c2a864 80%);
+    background: -webkit-linear-gradient(9deg,#211709 0%, #c2a864 80%);
+    background: -moz-linear-gradient(9deg,#211709 0%, #c2a864 80%);
+    color: white;
+    padding: 20px;
+    box-sizing: border-box;
+    border-radius: 20px;
+    box-shadow: 10px 10px 5px black;
+    column-count: 2;
+    column-gap: 50px;
+    column-rule: 1px solid black;
+    display: block;
+     margin-left: auto;
+     margin-right: auto;
+}
+
+#movielogo {
+
+    color:#7E6253;
+
+}
