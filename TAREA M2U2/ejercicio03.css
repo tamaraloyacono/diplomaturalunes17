@@ -1,17 +1,17 @@
 .contenedor{
 	background-color: #ffffff;
 	display: flex;
-    flex-direction: column;
+    flex-direction: row;
 	margin: 10px;
 	font-size: 30px;
-	align-items: flex-end;
+	justify-content: space-between;
 	border: solid black;
 }
 .item{
-	width: 100px;
-	height: 100px;
+    width: 200px;
+	height: 200px;
 	font-size: 30px;
-	display: flex;
+	display: inline-flex;
 	justify-content: center;
 	align-items: center;
 	color: #ffffff;
