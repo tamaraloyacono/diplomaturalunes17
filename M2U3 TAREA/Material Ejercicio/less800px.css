@@ -1,0 +1,56 @@
+
+@media only screen and (max-width: 800px) {
+
+    #contenedor
+    {
+        font-size: 30px;
+        display: inline-flex;
+        flex-direction: column;
+        
+    }
+    h1{
+        width: auto
+        
+    }
+    nav {
+        background: hsl(43, 70%, 55%);
+        align-content: flex-end;
+        width: auto;
+
+        }
+    section {
+        align-content: flex-end;
+        width: auto;
+        margin: auto;
+        
+        border-bottom: solid #000000;
+        border-top: solid #000000;
+        }
+
+    aside {
+        align-content: flex-end;
+        width: auto;
+        margin: auto;
+
+    }    
+    a {
+        color:#000000;
+        text-decoration: none;
+
+    }
+    
+
+
+
+
+
+
+
+
+
+
+
+
+    }
+
+    
