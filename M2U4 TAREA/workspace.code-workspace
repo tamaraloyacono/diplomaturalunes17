@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../UTN/diplomaturalunes17-1"
+		},
+		{
+			"path": "../M2U3"
+		},
+		{
+			"path": "../M2U3 TAREA"
+		},
+		{
+			"path": "../M2U2/flexbox"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "M2U4 TAREA"
+	}
+}
