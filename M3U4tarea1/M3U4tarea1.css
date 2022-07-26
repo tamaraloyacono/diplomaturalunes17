@@ -1,0 +1,22 @@
+.box{
+    width: 100px;
+    height: 100px;
+    border: 2px solid red;
+    margin: 0;
+    padding: 0;
+    }
+
+#verde{
+    background-color: green;
+    border: 2px solid green;
+}
+
+#azul{
+    border: 2px solid blue;
+    background: blue;
+}
+
+#rojo{
+    border: 2px solid red;
+    background: red;
+}
